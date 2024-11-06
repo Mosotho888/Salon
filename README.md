@@ -33,6 +33,7 @@ A bash-based appointment scheduling system for managing salon bookings. This pro
 3. Run the script:
   ```bash
  ./salon.sh
+
 4. Follow the on-screen prompts to:
 - Select a service.
 - Provide customer information.
