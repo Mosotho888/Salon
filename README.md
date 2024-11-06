@@ -41,7 +41,7 @@ A bash-based appointment scheduling system for managing salon bookings. This pro
 
 ## Script Overview
 
-1. Functions
+# Functions
 -**MAIN_MENU**: Lists all available services from the services table and manages invalid selections.
 -**PICK_A_SERVICE**: Manages service selection, collects customer contact information, and schedules the appointment.
 
